@@ -1,0 +1,3 @@
+Untuk menzoom in objek tekan = 'a'
+Untuk menzoom out objek tekan = 'd'
+untuk memutar objeck tekan = 's'
